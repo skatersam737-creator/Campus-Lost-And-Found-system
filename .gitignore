@@ -1,0 +1,7 @@
+node_modules/
+.env
+campusfind.db
+campusfind.db-shm
+campusfind.db-wal
+uploads/
+.DS_Store
